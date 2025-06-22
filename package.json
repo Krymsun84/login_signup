@@ -1,0 +1,19 @@
+{
+  "name": "login_signup",
+  "version": "1.0.0",
+  "description": "Login and signup component for wild life rescue app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krymsun84/login_signup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krymsun84/login_signup/issues"
+  },
+  "homepage": "https://github.com/Krymsun84/login_signup#readme"
+}
